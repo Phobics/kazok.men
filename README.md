@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <center>
+        <h1>jax.kazok.men</h1>
+        <h2 id="blink">
+            
+        </h2>
+		 <!-- Begin BidVertiser code -->
+<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=774861&bid=1891538" TYPE="text/javascript"></SCRIPT>
+<!-- End BidVertiser code --> 
+		 <!-- Begin BidVertiser code -->
+<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=774861&bid=1891539" TYPE="text/javascript"></SCRIPT>
+<!-- End BidVertiser code --> 
+		 
+	     
+	     
+	     
+	      
+	      
+	      
+	     
+		<button onclick="document.location.href='https://www.roblox.com/abusereport/asset?id=33913">Click here</button>
+		</center>
+</body>
